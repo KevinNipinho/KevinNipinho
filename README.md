@@ -18,7 +18,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-db036000-a470-11eb-882d-3d8816c21a9b.gif" width="100%">
 </p>
 
-### I Code With
+### 🛠️ Tools & Technologies
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
