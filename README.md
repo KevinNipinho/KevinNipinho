@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://media.tenor.com/A2F2iLP5vUMAAAAC/elden-ring-grace.gif" width="160" />
-</p>
-
 <h1 align="center">😊 Welcome to my profile! 😊</h1>
 
 ### 📜 About Me
